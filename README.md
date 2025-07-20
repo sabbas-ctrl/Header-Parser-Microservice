@@ -28,6 +28,7 @@ Perfect for quickly retrieving your IP address, preferred language, and software
   "language": "en-US,en;q=0.9",
   "software": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 }
+```
 
 ## Getting Started
 
