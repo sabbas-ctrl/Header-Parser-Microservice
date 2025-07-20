@@ -27,39 +27,6 @@ Perfect for quickly retrieving your IP address, preferred language, and software
   "ipaddress": "159.20.14.100",
   "language": "en-US,en;q=0.9",
   "software": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-<<<<<<< HEAD
-}
-# Request Header Parser Microservice
-
-A simple and reliable API that returns information about your device based on the HTTP headers sent with your request.  
-Perfect for quickly retrieving your IP address, preferred language, and software details.
-
-## Features
-
-- Returns your public IP address.
-- Detects your preferred language from the request headers.
-- Identifies your operating system and browser from the user-agent string.
-
-## Usage
-
-- **GET
-  Home page.
-
-- **GET /api/whoami**  
-  Returns a JSON object with the following keys:
-  - `ipaddress`: Your public IP address.
-  - `language`: Your preferred language(s).
-  - `software`: Information about your operating system and browser.
-
-## Example Response
-
-```json
-{
-  "ipaddress": "159.20.14.100",
-  "language": "en-US,en;q=0.9",
-  "software": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-=======
->>>>>>> 9afd4ce63c32071fc91cf53600caff661e983b39
 }
 
 ## Getting Started
